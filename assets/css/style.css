@@ -408,7 +408,7 @@ button.btn-lg{
 	line-height: 1.5em;
 }
 
-}
+
 button.btn-lg:hover{
 	background:#d6962c;
 	color:#fff;
@@ -839,6 +839,37 @@ font-size: 6rem;
 	margin-top:60px;	
 	
 }
+/*Agregado para cambiar imagen de pizza, sandw, empanadas*/
+.single_pakeg_pizzas{
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_sandwich{
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_empanadas{
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_guarniciones{
+	background:url(../images/newstwo.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+/*hasta aca agregado*/
+
 .single_pakeg_three{
 	background:url(../images/newsthree.jpg) left center no-repeat;
 	padding:30px;	

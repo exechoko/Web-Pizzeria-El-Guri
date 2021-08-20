@@ -581,7 +581,7 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .header_top_menu .call_us_text a i{
-	color:#e7a331;
+	color:#f31a0a;
 	margin-right:10px;
 	font-size:18px;
 }
@@ -655,7 +655,7 @@ a.navbar-brand.our_logo{
 /* slider section */
 
 .slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background:url(../images/frente_negocio.jpg) center center no-repeat;
 	background-size:cover;
 }
 .main_slider {
@@ -799,11 +799,6 @@ font-size: 6rem;
 	line-height:3rem;
 }
 
-
-
-
-
-
 /*Amazing Deliceas Section css */
 .ourPakeg .main_pakeg_content .head_title h3{
 	color:#fff;
@@ -816,7 +811,7 @@ font-size: 6rem;
 }
 
 .ourPakeg{
-	background:url(../images/newsbg.jpg) no-repeat center top scroll;
+	background:url(../images/bgproductos.jpg) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -827,7 +822,7 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/newsone.jpg) left center no-repeat;
+	background:url(../images/newsbebidas.jpg) left center no-repeat;
 	padding:30px;
 	overflow:hidden;
 	margin-top:60px;
@@ -841,28 +836,28 @@ font-size: 6rem;
 }
 /*Agregado para cambiar imagen de pizza, sandw, empanadas*/
 .single_pakeg_pizzas{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/newspizzas.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_sandwich{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/newssandwich.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_empanadas{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/newsempanadas.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_guarniciones{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/newsguarniciones.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
@@ -871,7 +866,7 @@ font-size: 6rem;
 /*hasta aca agregado*/
 
 .single_pakeg_three{
-	background:url(../images/newsthree.jpg) left center no-repeat;
+	background:url(../images/newspostres.jpg) left center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
@@ -894,7 +889,7 @@ font-size: 6rem;
 /* Mobail Apps Section css */
 
 .mobailapps{
-	background:url(../images/appsbg.jpg) top center no-repeat scroll;
+	background:url(../images/delivery.jpg) top center no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -984,7 +979,7 @@ font-size: 6rem;
 }
 .footer_socail_icon a i{
 	font-size:25px;
-	color:#e7a331;
+	color:#f31a0a;
 }
 
 
@@ -1006,7 +1001,7 @@ font-size: 6rem;
 }
 .footer .copyright p a{
 	padding:0px 10px;
-	color:green;
+	color:rgb(0, 81, 128);
 }
 
 

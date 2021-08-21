@@ -831,8 +831,29 @@ font-size: 6rem;
 	margin-top:60px;	
 	
 }
+.single_pakeg_mila_al_plato{
+	background:url(../images/newsmilanesaalplato.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_pastas{
+	background:url(../images/newspastas.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
 .single_pakeg_sandwich{
 	background:url(../images/newssandwich.jpg) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+.single_pakeg_sandwich_miga{
+	background:url(../images/newssandwichmiga.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
@@ -869,7 +890,7 @@ font-size: 6rem;
 }
 
 .single_pakeg_text ul li{
-    background: url(../images/pkli.png) no-repeat left center;
+    background: url(../images/pkli1.png) no-repeat left center;
     padding: 15px 0px 15px 60px;
     margin-top: 20px;
 	
